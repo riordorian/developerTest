@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cb3a6a3-d8d0-49d0-9e7c-5e3296648bcd" name="Default" comment="test-sobolev">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/developerTest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lenta-rss/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/admin/d7dull_index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/admin/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/default_option.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/include.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/install/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/admin/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/install/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/lib/ExampleTable.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lib/ExampleTable.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/options.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testPrideWebDev5.loc.iws" />
@@ -79,20 +92,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="testPrideWebDev5.loc" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testPrideWebDev5.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="testPrideWebDev5.loc" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="developerTest" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -302,7 +301,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505656047977</updated>
-      <workItem from="1505656049345" duration="1364000" />
+      <workItem from="1505656049345" duration="1757000" />
     </task>
     <task id="LOCAL-00001" summary="test-sobolev">
       <created>1505656536013</created>
@@ -322,7 +321,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1364000" />
+    <option name="totallyTimeSpent" value="1757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
