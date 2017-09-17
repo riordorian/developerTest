@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cb3a6a3-d8d0-49d0-9e7c-5e3296648bcd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lenta-rss/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/admin/d7dull_index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/admin/menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/default_option.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/include.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/install/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/admin/menu.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/install/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/lib/ExampleTable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/options.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lib/ExampleTable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/options.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/developerTest" afterPath="$PROJECT_DIR$/developerTest" />
     </list>
     <ignored path="testPrideWebDev5.loc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -224,7 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505656047977</updated>
-      <workItem from="1505656049345" duration="619000" />
+      <workItem from="1505656049345" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="test-sobolev">
       <created>1505656536013</created>
@@ -233,11 +221,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505656536013</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test-sobolev">
+      <created>1505656676411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505656676411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="619000" />
+    <option name="totallyTimeSpent" value="680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
