@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cb3a6a3-d8d0-49d0-9e7c-5e3296648bcd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lenta-rss/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/admin/d7dull_index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/admin/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/default_option.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/include.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/install/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/admin/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/install/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/lib/ExampleTable.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lang/ru/options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/lib/ExampleTable.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/soba.d7dull/options.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testPrideWebDev5.loc.iws" />
@@ -24,17 +36,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="ExampleTable.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/lib/ExampleTable.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExampleTable.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/lang/ru/lib/ExampleTable.php">
+        <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lang/ru/lib/ExampleTable.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -44,7 +46,7 @@
         </entry>
       </file>
       <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/lang/ru/admin/menu.php">
+        <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lang/ru/admin/menu.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -54,7 +56,7 @@
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/lang/ru/install/index.php">
+        <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lang/ru/install/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -64,7 +66,7 @@
         </entry>
       </file>
       <file leaf-file-name="options.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/lang/ru/options.php">
+        <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lang/ru/options.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -74,7 +76,7 @@
         </entry>
       </file>
       <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/admin/menu.php">
+        <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/admin/menu.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -84,7 +86,7 @@
         </entry>
       </file>
       <file leaf-file-name="d7dull_index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/admin/d7dull_index.php">
+        <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/admin/d7dull_index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -94,7 +96,7 @@
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/install/index.php">
+        <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/install/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -103,8 +105,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="include.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/include.php">
+      <file leaf-file-name="include.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/include.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -113,8 +115,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="options.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/soba.d7dull/options.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/developerTest/lenta-rss/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExampleTable.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lib/ExampleTable.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -182,6 +194,10 @@
               <option name="myItemId" value="testPrideWebDev5.loc" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="developerTest" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -194,8 +210,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\WEBSERVER_MAIN\OpenServer\domains\testPrideWebDev5.loc" />
       <recent name="C:\WEBSERVER_MAIN\OpenServer\domains\testPrideWebDev5.loc\developerTest" />
+      <recent name="C:\WEBSERVER_MAIN\OpenServer\domains\testPrideWebDev5.loc" />
     </key>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -208,12 +224,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505656047977</updated>
-      <workItem from="1505656049345" duration="478000" />
+      <workItem from="1505656049345" duration="619000" />
     </task>
+    <task id="LOCAL-00001" summary="test-sobolev">
+      <created>1505656536013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505656536013</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="478000" />
+    <option name="totallyTimeSpent" value="619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -225,9 +249,9 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -254,14 +278,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11111111111111" />
-    <option name="LAST_COMMIT_MESSAGE" value="11111111111111" />
+    <MESSAGE value="test-sobolev" />
+    <option name="LAST_COMMIT_MESSAGE" value="test-sobolev" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lenta-rss/index.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/options.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -269,7 +294,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/lib/ExampleTable.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/lenta-rss/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -277,7 +302,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/lang/ru/lib/ExampleTable.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lib/ExampleTable.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -285,7 +310,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/lang/ru/admin/menu.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lang/ru/lib/ExampleTable.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -293,7 +318,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/lang/ru/install/index.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lang/ru/admin/menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -301,7 +326,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/lang/ru/options.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lang/ru/install/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -309,7 +334,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/admin/menu.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/lang/ru/options.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -317,7 +342,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/admin/d7dull_index.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/admin/menu.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -325,7 +350,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/install/index.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/admin/d7dull_index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -333,7 +358,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/include.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/install/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -341,7 +366,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soba.d7dull/options.php">
+    <entry file="file://$PROJECT_DIR$/developerTest/soba.d7dull/include.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
